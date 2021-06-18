@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/homepage.css">
+    <link rel="stylesheet" href="css/loader.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+    <script src="js/main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <title>Rachel Baerts</title>
+</head>
+
+<body>
+    <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1472.73 1504.98">
+        <title>Logo Rachel</title>
+        <g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1">
+            <path d="M679.49,0,0,376.94,679.49,753.87ZM619.34,667.26,96,376.92,626.21,82.77Z"/>
+            <path d="M793.24,2.76V756.63L1472.73,379.7Zm58.69,84.69L1382.2,381.6,858.81,671.94Z"/>
+            <path d="M265.42,379.7,546,535.36V224ZM519,500.39,302.81,380.48,521.8,259Z"/>
+            <path d="M793.24,751.11V1505l679.49-376.93Zm58.69,84.69L1382.2,1130,858.81,1420.3Z"/>
+            <polygon points="0 1125.29 46.98 1151.35 620.79 833.04 620.79 833.04 620.79 833.04 620.79 833.06 620.79 1469.66 679.49 1502.22 679.49 748.35 0 1125.29"/>
+            <rect x="754.04" y="2.76" width="39.21" height="1502.22"/>
+            <rect x="679.49" width="39.21" height="1502.22"/></g></g>
+    </svg> -->
+    <!-- logo -->
+    <div class="page-container">
+        <div class="logo-center">
+            <p class="logo-tekst">Rachel</p>
+            <img class="logo-img" src="img/logo_rachel.svg" alt="logo">
+            <p class="logo-tekst">Baerts</p>
+        </div>
+
+        <!-- navigation -->
+
+        <div class="navigation">
+            <a id="contact" onmouseover="onHoverContact();" onmouseout="onHoverOff();" class="nav nav-contact rotate-left strokefill" href="contact.html">Contact</a>
+            <a id="works" onmouseover="onHoverWorks();" onmouseout="onHoverOff();" class="nav nav-works rotate-right " href="work.html">Works</a>
+            <a id="about" onmouseover="onHoverAbout();" onmouseout="onHoverOff();" class="nav nav-about " href="about.html">About</a>
+        </div>
+
+
+        <!-- selfprotret -->
+        <img id="portret" src="img/homepage/portret_purple.svg" alt="portret">
+
+        <!-- loader -->
+        <div class="loader-wrapper">
+            <span class="loader"><span class="loader-inner"></span></span>
+        </div>
+
+        <script>
+            $(window).on("load", function() {
+                $(".loader-wrapper").fadeOut("slow");
+            });
+        </script>
+
+
+    </div>
+</body>
+
+</html>

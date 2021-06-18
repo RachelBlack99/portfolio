@@ -1,0 +1,128 @@
+.work-container-1 {
+    background-image: url("../img/work/kyubio.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 800px;
+    max-height: 800px;
+    margin: 200px 0 200px 0;
+}
+
+.work-container-2 {
+    background-image: url("../img/work/brandingRB.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 800px;
+    max-height: 800px;
+    margin: 200px 0 200px 0;
+}
+
+.work-container-3 {
+    background-image: url("../img/work/notn.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 800px;
+    max-height: 800px;
+    margin: 200px 0 200px 0;
+}
+
+.work-container-4 {
+    background-image: url("../img/work/ikai.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 800px;
+    max-height: 800px;
+    margin: 200px 0 200px 0;
+}
+
+.work-container-5 {
+    background-image: url("../img/work/sprintx.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 800px;
+    max-height: 800px;
+    margin: 200px 0 200px 0;
+}
+
+.work-container-6 {
+    background-image: url("../img/work/bakery.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 800px;
+    max-height: 800px;
+    margin: 200px 0 200px 0;
+}
+
+.work-tekst-right {
+    position: absolute;
+    padding: 300px 20px 200px 0;
+    right: 300px;
+    text-align: right;
+}
+
+.work-tekst-left {
+    position: absolute;
+    padding: 300px 20px 200px 0;
+    left: 300px;
+    text-align: left;
+}
+
+.work-tekst-fill {
+    font-size: 60px;
+    font-weight: 800;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+.work-tekst-outline {
+    font-size: 60px;
+    font-weight: 800;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    color: white;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    margin-bottom: 50px;
+}
+
+.show {
+    color: white;
+    text-decoration: none;
+}
+
+.show:hover {
+    color: #B721FF;
+}
+
+
+/* visual roze */
+
+.visual {
+    width: 100%;
+    height: auto;
+}
+
+.visual img {
+    width: 100%;
+    height: auto;
+}

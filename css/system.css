@@ -1,0 +1,371 @@
+/* standaard waarden voor een webpagina */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    height: 100%;
+    font-family: "Montserrat", sans-serif;
+    background-color: black;
+    color: white;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    text-rendering: optimizeLegibility;
+}
+
+.page-container {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    margin-top: 0;
+}
+
+
+/* loader */
+
+.loader-wrapper {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #B721FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loader {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    border: 4px solid #Fff;
+    animation: loader 2s infinite ease;
+}
+
+.loader-inner {
+    vertical-align: top;
+    display: inline-block;
+    width: 100%;
+    background-color: #fff;
+    animation: loader-inner 2s infinite ease-in;
+}
+
+@keyframes loader {
+    0% {
+        transform: rotate(0deg);
+    }
+    25% {
+        transform: rotate(180deg);
+    }
+    50% {
+        transform: rotate(180deg);
+    }
+    75% {
+        transform: rotate(360deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes loader-inner {
+    0% {
+        height: 0%;
+    }
+    25% {
+        height: 0%;
+    }
+    50% {
+        height: 100%;
+    }
+    75% {
+        height: 100%;
+    }
+    100% {
+        height: 0%;
+    }
+}
+
+
+/* selection */
+
+::selection {
+    color: white;
+    background: #B721FF;
+}
+
+
+/* scrollbar */
+
+::-webkit-scrollbar {
+    width: 17px;
+}
+
+ ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+ ::-webkit-scrollbar-thumb {
+    background: #B721FF;
+}
+
+ ::-webkit-scrollbar-thumb:hover {
+    background: #8F00D4;
+}
+
+
+/* html attributen */
+
+iframe {
+    width: 100%;
+    height: 800px;
+    border: none;
+    border-radius: 50px;
+    margin: auto;
+}
+
+.iframe {
+    width: 60%;
+    height: 800px;
+    margin: auto;
+}
+
+.full-img {
+    width: 100%;
+    height: auto;
+}
+
+.half-img {
+    width: 50%;
+    height: auto;
+}
+
+.img-flex {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+button {
+    padding: 20px;
+    color: white;
+    background-color: #B721FF;
+    border: none;
+    border-radius: 30px;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+button:hover {
+    color: white;
+    background-color: black;
+    border: 2px solid #B721FF;
+}
+
+
+/* previous next buttons */
+
+h2 {
+    font-size: 60px;
+    font-weight: 800;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 40px;
+    font-weight: 800;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+.right {
+    text-align: right;
+}
+
+.button-a {
+    text-decoration: none;
+    color: white;
+}
+
+.button-a :hover {
+    color: #B721FF;
+}
+
+.container-button {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    height: auto;
+    margin: auto;
+}
+
+.button-content {
+    display: flex;
+}
+
+.margin-button {
+    margin-top: 300px;
+}
+
+
+/* teksten */
+
+h1 {
+    font-size: 90px;
+    font-weight: 800;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+.outline {
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+}
+
+
+/* title positioning */
+
+.tekst-col {
+    /* width: 80%; */
+    height: auto;
+    margin: auto;
+}
+
+.tekst-col-flex {
+    /* width: 80%; */
+    height: auto;
+    margin: auto;
+}
+
+.center {
+    width: 50%;
+    margin: auto;
+}
+
+.title {
+    margin-bottom: 90px;
+}
+
+
+/* bodytekst positioning */
+
+.bodytekst {
+    width: 60%;
+}
+
+
+/* component */
+
+.component-position {
+    display: flex;
+}
+
+.component-h1 {
+    margin: 50px 0 0 20px;
+}
+
+
+/* menu */
+
+.position-header {
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+/* logo */
+
+.logo-header {
+    margin: 30px 0 0 30px;
+    transition: all 1s;
+    transition-timing-function: ease-in-out;
+}
+
+.logo-header:hover {
+    transform: rotate(360deg);
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+
+/* margin */
+
+.margin-TB {
+    margin: 200px 0 200px 0;
+}
+
+.margin-T {
+    margin-top: 200px;
+}
+
+.margin-B {
+    margin-bottom: 200px;
+}
+
+.margin-A {
+    margin: auto;
+}
+
+
+/* contact */
+
+.contact-container-page {
+    position: relative;
+}
+
+.contact-container2 {
+    position: absolute;
+    width: 100%;
+    height: 650px;
+    margin-top: 200px;
+}
+
+.contact-container {
+    width: 80%;
+    height: 650px;
+    margin-top: 200px;
+    margin: auto;
+}
+
+.tekst-title-container2 {
+    margin-left: 200px;
+}
+
+.contact-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+}
+
+.contact-data {
+    text-align: right;
+    margin-top: 310px;
+}
+
+.email {
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.socialmedia-icons {
+    margin: 70px 0 30px 30px;
+}
+
+.socialmedia {
+    padding: 20px 0px 10px 40px;
+}

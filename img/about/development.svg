@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="581" height="441" viewBox="0 0 581 441">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#21d4fd"/>
+      <stop offset="1" stop-color="#b721ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_57" data-name="Group 57" transform="translate(-927.214 -5239)">
+    <circle id="Ellipse_97" data-name="Ellipse 97" cx="120.5" cy="120.5" r="120.5" transform="translate(927.214 5375)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_98" data-name="Ellipse 98" cx="72.5" cy="72.5" r="72.5" transform="translate(1231.214 5239)" fill="#b721ff"/>
+    <circle id="Ellipse_99" data-name="Ellipse 99" cx="72.5" cy="72.5" r="72.5" transform="translate(1361.214 5475)" fill="#b721ff"/>
+    <text id="code" transform="translate(1047.214 5530)" fill="#fff" font-size="90" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="-50.625" y="0">CODE</tspan></text>
+    <text id="file" transform="translate(1304.214 5333)" fill="#fff" font-size="56" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="-21" y="0">FILE</tspan></text>
+    <text id="code-branch" transform="translate(1434.214 5573)" fill="#fff" font-size="56" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="-21" y="0">CODE-BRANCH</tspan></text>
+    <text id="Development" transform="translate(945.214 5672)" fill="#fff" font-size="30" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Development</tspan></text>
+    <text id="Documenteren" transform="translate(1227.214 5427)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Documenteren</tspan></text>
+    <text id="Version_control" data-name="Version control" transform="translate(1357.214 5663)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Version control</tspan></text>
+  </g>
+</svg>

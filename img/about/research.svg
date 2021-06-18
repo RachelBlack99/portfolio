@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="603" height="394" viewBox="0 0 603 394">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#21d4fd"/>
+      <stop offset="1" stop-color="#b721ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_55" data-name="Group 55" transform="translate(-961.214 -4311)">
+    <circle id="Ellipse_64" data-name="Ellipse 64" cx="120.5" cy="120.5" r="120.5" transform="translate(961.214 4314)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_65" data-name="Ellipse 65" cx="72.5" cy="72.5" r="72.5" transform="translate(1237.214 4510)" fill="#b721ff"/>
+    <circle id="Ellipse_79" data-name="Ellipse 79" cx="72.5" cy="72.5" r="72.5" transform="translate(1419.214 4311)" fill="#b721ff"/>
+    <text id="search" transform="translate(1081.214 4468)" fill="#fff" font-size="90" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="-45" y="0">SEARCH</tspan></text>
+    <text id="users" transform="translate(1310.214 4604)" fill="#fff" font-size="56" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="-35" y="0">USERS</tspan></text>
+    <text id="file-alt" transform="translate(1492.214 4405)" fill="#fff" font-size="56" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="-21" y="0">FILE-ALT</tspan></text>
+    <text id="Research" transform="translate(1012.214 4611)" fill="#fff" font-size="30" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Research</tspan></text>
+    <text id="CMD-methods" transform="translate(1405.214 4499)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">CMD-methods</tspan></text>
+    <text id="Target_Audience" data-name="Target Audience" transform="translate(1227.214 4700)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Target Audience</tspan></text>
+  </g>
+</svg>

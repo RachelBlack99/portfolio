@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="662" height="478" viewBox="0 0 662 478">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#21d4fd"/>
+      <stop offset="1" stop-color="#b721ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_59" data-name="Group 59" transform="translate(-194 -4745)">
+    <rect id="Rectangle_173" data-name="Rectangle 173" width="662" height="478" transform="translate(194 4745)" fill="none"/>
+    <g id="Group_56" data-name="Group 56">
+      <circle id="Ellipse_94" data-name="Ellipse 94" cx="120.5" cy="120.5" r="120.5" transform="translate(488.214 4774)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_95" data-name="Ellipse 95" cx="72.5" cy="72.5" r="72.5" transform="translate(207.214 4760)" fill="#b721ff"/>
+      <circle id="Ellipse_96" data-name="Ellipse 96" cx="72.5" cy="72.5" r="72.5" transform="translate(318.214 5009)" fill="#b721ff"/>
+      <text id="draw-polygon" transform="translate(608.214 4929)" fill="#fff" font-size="90" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="-39.375" y="0">DRAW-POLYGON</tspan></text>
+      <text id="user" transform="translate(279.214 4854)" fill="#fff" font-size="56" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="-24.5" y="0">USER</tspan></text>
+      <text id="file-alt" transform="translate(391.214 5103)" fill="#fff" font-size="56" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="-21" y="0">FILE-ALT</tspan></text>
+      <text id="Designen" transform="translate(536.214 5070)" fill="#fff" font-size="30" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Designen</tspan></text>
+      <text id="CMD-methods" transform="translate(304.214 5197)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">CMD-methods</tspan></text>
+      <text id="User_test" data-name="User test" transform="translate(226.214 4947)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">User test</tspan></text>
+    </g>
+  </g>
+</svg>

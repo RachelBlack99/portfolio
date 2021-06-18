@@ -1,0 +1,10 @@
+<svg id="Group_70" data-name="Group 70" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63" height="63" viewBox="0 0 63 63">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#21d4fd"/>
+      <stop offset="1" stop-color="#b721ff"/>
+    </linearGradient>
+  </defs>
+  <circle id="Ellipse_161" data-name="Ellipse 161" cx="31.5" cy="31.5" r="31.5" fill="url(#linear-gradient)"/>
+  <text id="Arrow-up" transform="translate(21.444 39.06)" fill="#fff" font-size="22" font-family="FontAwesome5Pro-Regular, 'Font Awesome \35  Pro'"><tspan x="0" y="0">Arrow-up</tspan></text>
+</svg>

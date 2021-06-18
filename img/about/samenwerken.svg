@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="645" height="457" viewBox="0 0 645 457">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#21d4fd"/>
+      <stop offset="1" stop-color="#b721ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_58" data-name="Group 58" transform="translate(-272 -5766)">
+    <rect id="Rectangle_174" data-name="Rectangle 174" width="645" height="457" transform="translate(272 5766)" fill="none"/>
+    <circle id="Ellipse_100" data-name="Ellipse 100" cx="120.5" cy="120.5" r="120.5" transform="translate(561.214 5862)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_101" data-name="Ellipse 101" cx="72.5" cy="72.5" r="72.5" transform="translate(299.214 5956)" fill="#b721ff"/>
+    <text id="tasks" transform="translate(675.214 6017)" fill="#fff" font-size="90" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="-45" y="0">TASKS</tspan></text>
+    <text id="smile" transform="translate(372.214 6050)" fill="#fff" font-size="56" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="-27.125" y="0">SMILE</tspan></text>
+    <text id="SCRUM" transform="translate(618.214 6159)" fill="#fff" font-size="30" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">SCRUM</tspan></text>
+    <text id="Samenwerken" transform="translate(295.214 6144)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Samenwerken</tspan></text>
+  </g>
+</svg>
